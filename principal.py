@@ -1,2 +1,3 @@
-print("este es el archivo principal")
+print("Fundamentos de Algoritmos")
 print("Nuevo código de programación 20E4312")
+print ("Mensaje de bienvenidos")
